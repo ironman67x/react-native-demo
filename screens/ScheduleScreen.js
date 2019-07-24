@@ -46,7 +46,7 @@ class ScheduleScreen extends React.Component {
   _scheduleDayRef = {};
 
   static navigationOptions = {
-    title: 'Schedule'
+    title: 'Schedulex'
   };
 
   componentWillMount() {
