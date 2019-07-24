@@ -21,7 +21,7 @@ const Sponsors = () => {
      <Image source={Images.sponsor} />
       <Text style={styles.heading}>Our Sponsors</Text>
       <Text style={styles.description}>
-        We love the sponsors for this conference. They make all of this fun
+        We love the sponsorsx for this conference. They make all of this fun
         stuff possible, and we couldn’t have done it without them.
       </Text>
 
